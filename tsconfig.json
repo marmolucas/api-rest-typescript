@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true, // Adicione essa linha
+      "target": "ES6",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true
+    }
+  }
